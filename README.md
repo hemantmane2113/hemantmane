@@ -49,12 +49,12 @@ Here are some of the repositories I’ve created and contributed to:
 
 ## 📊 GitHub Stats  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hemantmane&show_icons=true&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantmane&layout=compact&theme=default" height="150" />
 </p>  
 
 ---
 
 ## 📬 Connect With Me  
-- ✉️ Email: **your_email@example.com**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- ✉️ Email: **hemantmane007@gmail.com**  
+- 🔗 [LinkedIn]((https://www.linkedin.com/in/hemant-mane-cr007/))  
