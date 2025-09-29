@@ -57,4 +57,4 @@ Here are some of the repositories I’ve created and contributed to:
 
 ## 📬 Connect With Me  
 - ✉️ Email: **hemantmane007@gmail.com**  
-- 🔗 [LinkedIn]((https://www.linkedin.com/in/hemant-mane-cr007/))  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hemant-mane-cr007/)  
