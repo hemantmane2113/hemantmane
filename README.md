@@ -45,13 +45,26 @@ Here are some of the repositories I’ve created and contributed to:
 - 💻 **C++ Programming** – OOP-based problem solving and applications  
 - 🐍 **Python Programming** – Scripts, automation, and data-driven projects  
 
----
-
 ## 📊 GitHub Stats  
+
 <p align="left">
+  <!-- General Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=hemantmane&show_icons=true&theme=default" height="150" />
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantmane&layout=compact&theme=default" height="150" />
-</p>  
+</p>
+
+<p align="left">
+  <!-- Repo per Language -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemantmane&theme=default" height="150" />
+  <!-- Most Commit Language -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemantmane&theme=default" height="150" />
+</p>
+
+<p align="left">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemantmane&theme=default" />
+</p>
 
 ---
 
