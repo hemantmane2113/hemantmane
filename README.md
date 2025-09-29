@@ -1,12 +1,11 @@
 # hemantmane
-Research Fellow| Aspiring to work as a Data Scientist in the industry | ISRO Project Contributor | Passionate about solving real-world problems with AI & Deep Learning
-
 # 👋 Hi, I'm Hemant Mane  
+> Turning code into impact | Solving real-world problems with AI & Data Science
 
 ## 🚀 About Me  
-- 🌍 Always driven by the desire to **make a difference by solving real-world problems** — through civil services or coding  
+- 🌍 Always driven by the desire to **make a difference by solving real-world problems** — through civil services(earlier) or coding(now)  
 - 📖 Ex–Civil Services aspirant who discovered a new passion in **programming, data science, and AI**  
-- 🛰️ Currently working as a **Research Fellow @ Savitribai Phule Pune University** on an **ISRO project** applying **Deep Learning** to **satellite   imagery**  
+- 🛰️ Currently working as a **Research Fellow @ Savitribai Phule Pune University** on an **ISRO project** applying **Deep Learning** to **satellite imagery**  
 - 💡 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and GenAI**  
 - 🛠️ Experienced in building solutions across **Python, C++, Java, C#, and scripting languages**  
 - 🔍 Focused on **solving complex problems, automating processes, and creating data-driven solutions**  
@@ -39,18 +38,18 @@ Research Fellow| Aspiring to work as a Data Scientist in the industry | ISRO Pro
 
 Here are some of my repositories (click to view the code):  
 
-- ⚙️ **[Automation Projects](https://github.com/hemantmane2113/Automation-Projects)**
-- 🤖 **[Machine Learning Projects](https://github.com/hemantmane2113/Machine-Learning-Projects)**
-- 🧠 **[Deep Learning Projects](https://github.com/hemantmane2113/Deep-Learning-Projects)**  
-- 🌐 **[GenAI Projects](https://github.com/hemantmane2113/GENAI-projects)**  
-- 📝 **[HackerRank Problems](https://github.com/hemantmane2113/hacker_rank)**  
-- 🧩 **[LeetCode Problems](https://github.com/hemantmane2113/leet_code)**  
-- ☕ **[Java Programming](https://github.com/hemantmane2113/java_programming)**  
-- ⚙️ **[C Programming](https://github.com/hemantmane2113/c_programming)**  
-- 💻 **[C++ Programming](https://github.com/hemantmane2113/c_plus_plus_programming)**  
-- 🐍 **[Python Programming](https://github.com/hemantmane2113/python_programming)**  
-- 🔧 **[Logic Building Assignments (Split by Language)](https://github.com/hemantmane2113/Logic-Building-Assignments)**
-- 🔧 **[Marvellous_Python Assignments](https://github.com/hemantmane2113/Marvellous-Python-Assignments)**
+- 📁 **[Automation Projects](https://github.com/hemantmane2113/Automation-Projects)**  
+- 📁 **[Machine Learning Projects](https://github.com/hemantmane2113/Machine-Learning-Projects)**  
+- 📁 **[Deep Learning Projects](https://github.com/hemantmane2113/Deep-Learning-Projects)**  
+- 📁 **[GenAI Projects](https://github.com/hemantmane2113/GENAI-projects)**  
+- 📁 **[HackerRank Problems](https://github.com/hemantmane2113/hacker_rank)**  
+- 📁 **[LeetCode Problems](https://github.com/hemantmane2113/leet_code)**  
+- 📁 **[Java Programming](https://github.com/hemantmane2113/java_programming)**  
+- 📁 **[C Programming](https://github.com/hemantmane2113/c_programming)**  
+- 📁 **[C++ Programming](https://github.com/hemantmane2113/c_plus_plus_programming)**  
+- 📁 **[Python Programming](https://github.com/hemantmane2113/python_programming)**  
+- 📁 **[Logic Building Assignments (Split by Language)](https://github.com/hemantmane2113/Logic-Building-Assignments)**  
+- 📁 **[Marvellous_Python Assignments](https://github.com/hemantmane2113/Marvellous-Python-Assignments)**  
 
 ---
 
