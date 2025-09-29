@@ -4,10 +4,14 @@ Research Fellow| Aspiring to work as a Data Scientist in the industry | ISRO Pro
 # 👋 Hi, I'm Hemant Mane  
 
 ## 🚀 About Me  
-- 🌍 Always driven by the desire to **make a difference by solving real-world problems** — whether through civil services or through coding.  
-- 📖 Ex–Civil Services aspirant who found a new passion in **programming and data science**.  
-- 🛰️ Currently working as a **Research Fellow @ Savitribai Phule Pune University** on an **ISRO project** applying **Deep Learning** to **satellite imagery**.
-- 💡 Strong interest in **AI, data-driven research, and space technology**.  
+- 🌍 Always driven by the desire to **make a difference by solving real-world problems** — through civil services or coding  
+- 📖 Ex–Civil Services aspirant who discovered a new passion in **programming, data science, and AI**  
+- 🛰️ Currently working as a **Research Fellow @ Savitribai Phule Pune University** on an **ISRO project** applying **Deep Learning** to **satellite   imagery**  
+- 💡 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and GenAI**  
+- 🛠️ Experienced in building solutions across **Python, C++, Java, C#, and scripting languages**  
+- 🔍 Focused on **solving complex problems, automating processes, and creating data-driven solutions**  
+- 🌱 Constantly learning and exploring **new technologies, frameworks, and tools** to improve efficiency and deliver impact  
+- 🤝 Open to **collaboration, research opportunities, and challenging projects** that make a tangible difference  
 
 ---
 
