@@ -41,7 +41,8 @@ Here are some of my repositories (click to view the code):
 - 📁 **[Automation Projects](https://github.com/hemantmane2113/Automation-Projects)**  
 - 📁 **[Machine Learning Projects](https://github.com/hemantmane2113/Machine-Learning-Projects)**  
 - 📁 **[Deep Learning Projects](https://github.com/hemantmane2113/Deep-Learning-Projects)**  
-- 📁 **[GenAI Projects](https://github.com/hemantmane2113/GENAI-projects)**  
+- 📁 **[GenAI Projects](https://github.com/hemantmane2113/GENAI-projects)**
+- 📁 **[Data Structures and Algorithms](https://github.com/hemantmane2113/Data-Strucutres-and-Algorithms)**
 - 📁 **[HackerRank Problems](https://github.com/hemantmane2113/hacker_rank)**  
 - 📁 **[LeetCode Problems](https://github.com/hemantmane2113/leet_code)**  
 - 📁 **[Java Programming](https://github.com/hemantmane2113/java_programming)**  
