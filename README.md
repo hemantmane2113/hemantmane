@@ -35,8 +35,8 @@ Research Fellow| Aspiring to work as a Data Scientist in the industry | ISRO Pro
 
 Here are some of my repositories (click to view the code):  
 
-- 🤖 **[Machine Learning Projects](https://github.com/hemantmane2113/Machine-Learning-Projects)**
 - ⚙️ **[Automation Projects](https://github.com/hemantmane2113/Automation-Projects)**
+- 🤖 **[Machine Learning Projects](https://github.com/hemantmane2113/Machine-Learning-Projects)**
 - 🧠 **[Deep Learning Projects](https://github.com/hemantmane2113/Deep-Learning-Projects)**  
 - 🌐 **[GenAI Projects](https://github.com/hemantmane2113/GENAI-projects)**  
 - 📝 **[HackerRank Problems](https://github.com/hemantmane2113/hacker_rank)**  
