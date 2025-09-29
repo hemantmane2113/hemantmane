@@ -1,13 +1,13 @@
 # hemantmane
-Research Fellow| Aspiring Data Scientist | ISRO Project Contributor | Passionate about solving real-world problems with AI & Deep Learning
+Research Fellow| Aspiring to work as a Data Scientist in the industry | ISRO Project Contributor | Passionate about solving real-world problems with AI & Deep Learning
 
 # 👋 Hi, I'm Hemant Mane  
 
 ## 🚀 About Me  
-- 🌍 Always driven by the desire to **make a difference by solving real-world problems** — whether through civil services or through coding  
-- 📖 Ex–Civil Services aspirant who found a new passion in **programming and data science**  
-- 🛰️ Currently contributing to an **ISRO project** applying **deep learning** to satellite imagery  
-- 💡 Strong interest in **AI, data-driven research, and space technology**  
+- 🌍 Always driven by the desire to **make a difference by solving real-world problems** — whether through civil services or through coding.  
+- 📖 Ex–Civil Services aspirant who found a new passion in **programming and data science**.  
+- 🛰️ Currently working as a **Research Fellow @ Savitribai Phule Pune University** on an **ISRO project** applying **Deep Learning** to **satellite imagery**.
+- 💡 Strong interest in **AI, data-driven research, and space technology**.  
 
 ---
 
@@ -17,7 +17,7 @@ Research Fellow| Aspiring Data Scientist | ISRO Project Contributor | Passionate
 - **Procedural Programming:** C  
 - **Object-Oriented Programming (OOP):** C++, Python  
 - **Virtual Machine–based Programming:** Java, C# .NET  
-- **Scripting Languages:** PHP, JavaScript  
+- **Scripting Languages:** JavaScript  
 
 ### Domain Expertise  
 - **Python Libraries & Tools:** NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras, OpenCV  
