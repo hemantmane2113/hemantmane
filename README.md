@@ -33,37 +33,41 @@ Research Fellow| Aspiring Data Scientist | ISRO Project Contributor | Passionate
 
 ## 📂 Featured Work  
 
-Here are some of the repositories I’ve created and contributed to:  
+Here are some of my repositories (click to view the code):  
 
-- 🤖 **Machine Learning Projects** – Regression, classification, clustering, feature engineering, and model evaluation  
-- 🧠 **Deep Learning Projects** – ANN, CNN, RNN, Computer Vision, and NLP implementations  
-- 🌐 **GenAI Projects** – Experiments with Hugging Face Transformers, GPT, BERT, and DALL·E  
-- 📝 **HackerRank Problems** – Solutions to coding challenges from HackerRank  
-- 🧩 **LeetCode Problems** – Algorithmic and data structure problem-solving in multiple languages  
-- ☕ **Java Programming** – Core Java and OOP projects  
-- ⚙️ **C Programming** – Procedural programming exercises and mini-projects  
-- 💻 **C++ Programming** – OOP-based problem solving and applications  
-- 🐍 **Python Programming** – Scripts, automation, and data-driven projects  
+- 🤖 **[Machine Learning Projects](https://github.com/hemantmane2113/Machine-Learning-Projects)**  
+- 🧠 **[Deep Learning Projects](https://github.com/hemantmane2113/Deep-Learning-Projects)**  
+- 🌐 **[GenAI Projects](https://github.com/hemantmane2113/GENAI-projects)**  
+- 📝 **[HackerRank Problems](https://github.com/hemantmane2113/hacker_rank)**  
+- 🧩 **[LeetCode Problems](https://github.com/hemantmane2113/leet_code)**  
+- ☕ **[Java Programming](https://github.com/hemantmane2113/java_programming)**  
+- ⚙️ **[C Programming](https://github.com/hemantmane2113/c_programming)**  
+- 💻 **[C++ Programming](https://github.com/hemantmane2113/c_plus_plus_programming)**  
+- 🐍 **[Python Programming](https://github.com/hemantmane2113/python_programming)**  
+- 🔧 **[Logic Building Assignments (Split by Language)](https://github.com/hemantmane2113/Logic-Building-Assignments)**
+- 🔧 **[Marvellous_Python Assignments](https://github.com/hemantmane2113/Marvellous-Python-Assignments)**
+
+---
 
 ## 📊 GitHub Stats  
 
 <p align="left">
   <!-- General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hemantmane&show_icons=true&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" height="150" />
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantmane&layout=compact&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default" height="150" />
 </p>
 
 <p align="left">
   <!-- Repo per Language -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemantmane&theme=default" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=default" height="150" />
   <!-- Most Commit Language -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemantmane&theme=default" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourusername&theme=default" height="150" />
 </p>
 
 <p align="left">
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemantmane&theme=default" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=default" />
 </p>
 
 ---
